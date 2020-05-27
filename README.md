@@ -1,2 +1,2 @@
-# The-Rosa-
+# The-Rosa
 Site do restaurante fictício "The Rosa"
